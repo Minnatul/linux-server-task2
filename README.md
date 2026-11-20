@@ -1,4 +1,4 @@
-# Linux Server Task (Ubuntu 24.04)
+# Linux Server Task 2 (Ubuntu 24.04)
 
 I did this task on an Ubuntu Server 24.04 VM running in VMware Workstation.
 
